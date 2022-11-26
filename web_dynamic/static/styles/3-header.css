@@ -9,6 +9,7 @@ header .logo {
     left: 20px;
     height: 100%;
 }
+<<<<<<< HEAD
 
 #api_status {
     margin-right: 30px;
@@ -19,4 +20,16 @@ header .logo {
 }
 #api_status.available {
 	background-color: #ff545f;
+=======
+#api_status {
+    width: 40px;
+    height: 40px;
+    margin-right: 30px;
+    border-radius: 100%;
+    background-color: #cccccc;
+}
+
+#api_status.available {
+	background: #ff545f
+>>>>>>> 4d4d0e1463b18b5cc30e5176f3e455da8e99a573
 }
