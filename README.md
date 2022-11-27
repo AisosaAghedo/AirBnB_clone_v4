@@ -126,6 +126,7 @@ TestBaseModel class:
 * `def test_user_module_docstring(self)` - Test for the user.py module docstring
 * `def test_user_class_docstring(self)` - Test for the User class docstring
 
+[/web_dynamic](/web_dynamic/) - Contains all of our updates to make the web page dynamic with the introduction of some scripts
 
 ## Examples of use
 ```
@@ -158,6 +159,8 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+Aisosa Aghedo - [Github](https://github.com/AisosaAghedo)
+Ololade Olanrewaju - [Github](https://github.com/lolade-dev)
 
 Second part of Airbnb: Joann Vuong
 ## License
